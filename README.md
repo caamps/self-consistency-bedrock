@@ -50,7 +50,7 @@ Self Consistency é utilizada para ajudar a IA a resolver problemas que envolvem
    - Certifique-se de ter o Python instalado juntamente com o boto3 (`pip install boto3`).
 
 2. **Execução do Script template.py:**:
-   - O script `template.py` usa boto3 para criar recursos do projeto. Execute o script a partir da linha de comando.
+   - O script `template.py` usa boto3 para criar recursos do projeto. Clone o repositório e execute o script a partir da linha de comando.
    - `python template.py`
 
 3. **Execução**:

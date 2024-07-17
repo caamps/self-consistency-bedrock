@@ -33,6 +33,9 @@ Self Consistency é utilizada para ajudar a IA a resolver problemas que envolvem
 6. Cada "path" é enviado a um node de tipo prompt, utilizando o modelo Claude 3.5 Sonnet para responder à pergunta.
 7. Um collector coleta os outputs dos diferentes paths e envia a outra função Lambda que computa e retorna as respostas finais.
 
+![image](https://github.com/user-attachments/assets/893f7483-9820-499b-b5da-64a0aec56f05)
+
+
 ## Estrutura do Repositório
 
 - `questions.json`: Arquivo com o dataset de perguntas e respostas.
